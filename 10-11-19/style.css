@@ -1,0 +1,42 @@
+.center {
+	display: flex;
+	justify-content: center;
+}
+
+.wrap {
+	background-color: lime;
+	padding: 25px;
+	border: .5px solid rgb(0,255,0);
+	border-radius: 5px;
+	position: center;
+	Left: 50%;
+	top: 50%;
+	transform-style: flat;
+}
+.wrap2 {
+	background-color: lime;
+	padding: 25px;
+	border: .5px solid rgb(0,255,0);
+	border-radius: 5px;
+	position: center;
+	Left: 50%;
+	top: 50%;
+	transform-style: flat;
+}
+
+body {
+	background-color: black;
+}
+
+em{color: lime}
+p{text-align: center}
+
+h1{text-align: center}
+
+h2{text-align: center}
+
+h3{text-align: center}
+
+a{color: lime}
+
+a:visited{color: white}

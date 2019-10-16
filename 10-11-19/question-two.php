@@ -6,8 +6,8 @@
 	<link rel="stylesheet" type="text/css" href="./style.css">
 </head>
 <style>
-	#myDIV {width: 97.25%; height: 100px;  background: black; -webkit-animation: mymove 20s ease-in-out;
-		animation: mymove 20s ease-in-out;}
+	#myDIV {width: 97.25%; height: 100px;  background: black; -webkit-animation: mymove 7s ease-in-out;
+		animation: mymove 7s ease-in-out;}
 	@-webkit-keyframes {from {background-color: darkviolet;} to {background-color: black;}}
 	@keyframes mymove {from {background-color: darkviolet;} to {background-color: black;} }
 

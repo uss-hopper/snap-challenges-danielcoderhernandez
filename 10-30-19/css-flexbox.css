@@ -1,15 +1,23 @@
-ul {
+.my-list {
 	padding: 0;
 	margin: 0;
 	list-style: none;
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	justify-content: space-between;
 }
 
-li {
+.my-item {
 	background: tomato;
-
 	line-height: 150px;
 	color: white;
 	font-weight: bold;
 	font-size: 3em;
 	text-align: center;
+	margin: 10px 0 0 0;
+	border: 0;
+	padding: 5px;
+	width: 200px;
+	height: 150px;
 }

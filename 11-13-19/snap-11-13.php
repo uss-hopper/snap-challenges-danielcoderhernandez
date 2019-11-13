@@ -2,6 +2,7 @@
 
 <head>
 	<meta charset="UTF-8">
+	<script src="js-script.js"></script>
 </head>
 /*
 *Iterate over the array of objects using the map function.

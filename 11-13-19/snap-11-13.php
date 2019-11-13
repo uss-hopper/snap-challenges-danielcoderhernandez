@@ -1,10 +1,14 @@
-<?php
+<!DOCTYPE HTML>
+
+<head>
+	<meta charset="UTF-8">
+</head>
 /*
 *Iterate over the array of objects using the map function.
  * Modify each object by removing the company variable. Feel free to use codepen.io for the assignment.
 */
 
-
+<body>
 [
 {
 	"id": 1,
@@ -237,3 +241,4 @@
 }
 }
 ]
+</body>

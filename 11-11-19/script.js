@@ -12,7 +12,7 @@ function findRemove() {
 	let re = new RegExp(findWord, "company");
 
 	//find and remove words in the original text using the regex we created
-	let newText = txt.replace(re, findRemoveWord);
+	let newText = txt.replace(re, removeText);
 
 	//output the new text to page
 
